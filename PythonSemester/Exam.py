@@ -46,7 +46,7 @@ while (login == False) :
         
     else :
         cnt += 1
-        if (cnt >= 3) :
+        if (cnt >= 3) : 
             print ('3회 이상 틀렸습니다. 종료합니다')
             exit()
         
