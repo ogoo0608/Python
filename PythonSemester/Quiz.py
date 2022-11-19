@@ -30,7 +30,7 @@ students = ['홍길동', '김사랑', '나대장']
 scores = [[90,85,91],[92,95,88],[87,94,96]]
 
 
-printReport(students, scores)
+printReport(students, scores) 
 
 
 # Solution (Quiz - 1)
